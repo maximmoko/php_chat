@@ -1,0 +1,75 @@
+
+
+
+
+/* wrapper of the page */
+
+.wrapper {
+	width: 80%;
+	height: 800px;
+	background-color: gray;
+	padding-top: 10px;
+	margin: auto;
+}
+
+.text{
+	text-align: center;
+}
+
+.registration{
+	width: 30%;
+	height: 150px;
+	border: solid 2px;
+	margin: auto;
+	padding: 20px;
+}
+
+.type {
+	width: 100%;
+	margin-bottom: 10px;
+	margin-left: 69px;
+}
+
+.password {
+	width: 53%;
+	margin-bottom: 60px;
+	margin-left: 69px;
+	margin-right: 10px;
+}
+
+.textarea{
+	margin-top: 20px;
+	margin-left: 95px;
+	width: 40%;
+	height: 300px;
+	border: solid 2px;
+	float: left;
+	padding: auto;
+}
+
+.comment{
+	text-align: center;
+}
+
+.form_row {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.input_field {
+	width: 70%;
+	height: 200px;
+	margin-left: 25px;
+}
+
+.messages{ 
+	margin-top: 20px;
+	margin-right: 95px;
+	width: 40%;
+	height: 300px;
+	border: solid 2px;
+	float: right;
+	overflow: auto; 
+}
+
+
